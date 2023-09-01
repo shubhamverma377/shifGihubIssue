@@ -6,7 +6,7 @@ const milestoneArray = [1, 2, 3];
 const dir = 'TimeSheet'; //gitlab orgName;
 const gitlabRepoName = 'timesheet'; //gitlab projectName;
 const projectId = 33509861; //gitlab projectId
-const gitLabToken = 'glpat-aAK12D6eEzKKuxagsaiz'
+const gitLabToken = ''
 
 
 const pipelineSubmitApi = async () => {

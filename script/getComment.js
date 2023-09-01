@@ -5,7 +5,7 @@ const commentDir = 'Comments11'; //gitlab orgName;
 const dir = 'issues'; //gitlab orgName;
 const gitlabRepoName = 'comments'; //gitlab projectName;
 // const projectId = 19022494; //gitlab projectId
-const gitLabToken = 'glpat-EGGegDcSqrQUM7V_ezZS';
+const gitLabToken = '';
 
 const pipelineSubmitApi = async (
   issueId,

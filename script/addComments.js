@@ -16,7 +16,7 @@ const octokit = new Octokit({
   auth: GITHUB_PERSONAL_TOKEN,
 });
 
-const gitLabToken = 'glpat-EGGegDcSqrQUM7V_ezZS';
+const gitLabToken = '';
 
 const addCommit = async (commentData, issuesMappingData, tempIndex) => {
   const indexOfIssues = issuesMappingData.findIndex((data) => {
